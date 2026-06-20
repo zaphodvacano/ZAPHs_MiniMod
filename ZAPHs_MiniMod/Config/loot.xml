@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+
+	<append xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralCommon']">
+		<item name="bratwurstSchematic"/>
+		<item name="foodCookedPotatoesSchematic"/>
+	</append>
+
+	<append xpath="/lootcontainers/lootgroup[@name='groupFoodCommon']">
+		<item name="bratwurst"/>
+		<item name="foodCookedPotatoes"/>
+	</append>
+
+</xml>

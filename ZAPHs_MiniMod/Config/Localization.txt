@@ -1,0 +1,7 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+bratwurst,items,Food,,,Sausage,,Bratwurst,,,,,,,,,,,,
+bratwurstDesc,items,Food,,,A tasty Sausage!,,Eine leckere Bratwurst!,,,,,,,,,,,,
+bratwurstSchematic,items,Food,,,Sausage Schematic,,Rezept - Bratwurst,,,,,,,,,,,,
+foodCookedPotatoes,items,Food,,,Cooked Potatoes,,Gekochte Kartoffeln,,,,,,,,,,,,
+foodCookedPotatoesDesc,items,Food,,,Cooked Potatoes!,,Gekochte Kartoffeln!,,,,,,,,,,,,
+foodCookedPotatoesSchematic,items,Food,,,Cooked Potatoes Schematic,,Rezept - Gekochte Kartoffeln,,,,,,,,,,,,

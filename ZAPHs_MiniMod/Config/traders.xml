@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+
+	<append xpath="/traders/trader_item_groups/trader_item_group[@name='traderAlways']">
+		<item name="bratwurst"/>
+		<item name="bratwurstSchematic"/>
+		<item name="foodCookedPotatoes"/>
+		<item name="foodCookedPotatoesSchematic"/>
+	</append>
+
+</xml>

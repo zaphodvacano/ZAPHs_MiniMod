@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+
+	<append xpath="/recipes">
+
+		<!-- NEW bratwurst recipe!! -->
+		<recipe name="bratwurst" count="1" craft_area="campfire" craft_tool="toolCookingGrill">
+			<ingredient name="foodRawMeat" count="1"/>
+			<ingredient name="resourceAnimalFat" count="1"/>
+		</recipe>
+
+		<!-- NEW foodCookedPotatoes recipe!! -->
+		<recipe name="foodCookedPotatoes" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="perkMasterChef,learnable">
+			<ingredient name="foodCropPotato" count="5"/>
+			<ingredient name="drinkJarBoiledWater" count="2"/>
+		</recipe>
+
+		<!-- NEW resourceCoal recipes!! -->
+		<recipe name="resourceCoal" count="1" craft_area="campfire">
+			<ingredient name="resourceWood" count="15"/>
+		</recipe>
+
+		<recipe name="resourceCoal" count="1" craft_area="chemistryStation">
+			<ingredient name="resourceWood" count="5"/>
+		</recipe>
+
+		<!-- NEW toolBeaker recipe!! -->
+		<recipe name="toolBeaker" count="1" material_based="true" craft_area="forge">
+			<ingredient name="unit_glass" count="100"/>
+			<ingredient name="unit_clay" count="10"/>
+		</recipe>
+
+		<!-- NEW resourceSpring recipe!! -->
+		<recipe name="resourceSpring" count="1" material_based="true" craft_area="forge">
+			<ingredient name="unit_iron" count="20"/>
+			<ingredient name="unit_clay" count="10"/>
+		</recipe>
+
+		<!-- NEW smallEngine recipe!! -->
+		<recipe name="smallEngine" count="1" craft_area="workbench">
+			<ingredient name="resourceForgedSteel" count="60"/>
+			<ingredient name="resourceScrapPolymers" count="20"/>
+			<ingredient name="resourceElectricParts" count="10"/>
+			<ingredient name="resourceMechanicalParts" count="30"/>
+			<ingredient name="meleeToolAxeT3ChainsawParts" count="5"/>
+		</recipe>
+
+		<!-- NEW resourceAcid recipe!! -->
+		<recipe name="resourceAcid" count="1" craft_area="chemistryStation">
+			<ingredient name="resourceOilShale" count="6"/>
+			<ingredient name="drinkJarRiverWater" count="1"/>
+			<ingredient name="foodRottingFlesh" count="2"/>
+		</recipe>
+
+	</append>
+
+</xml>
